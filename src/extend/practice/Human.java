@@ -4,9 +4,6 @@ public abstract class Human extends Living {
 
 	public Human(String name, int hp, int offensive) {
 		super(name, hp, offensive);
-	}
-
-	@Override
-	void attack(Living target) {
+		// TODO 自動生成されたコンストラクター・スタブ
 	}
 }

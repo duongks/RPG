@@ -6,8 +6,4 @@ public abstract class Monster extends Living {
 	public Monster(String name, int hp, int offensive) {
 		super(name, hp, offensive);
 	}
-
-	@Override
-	void attack(Living target) {
-	}
 }
